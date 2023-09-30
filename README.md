@@ -187,4 +187,5 @@ as averagesal from managers;
 select designation,count(*) as number_employee from managers GROUP BY designation ORDER BY number_employee DESC;
 ```
 ### OUTPUT:
-![Listing](https://github.com/Jeevapriya14/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121003043/0464ee4d-ed65-4c)
+![image](https://github.com/harinidq/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/113497680/2043256a-0c3a-4975-bc2c-56f1a47ac955)
+
